@@ -8,7 +8,7 @@ import {
 import Informacion from 'components/informacion/informacion';
 
 const Home = () => (
-  <div className='lg:mx-20 sm:mx-8 md:mx-10'>
+  <div className='desktop:mx-20 mobile:mx-8 tablet:mx-10'>
     <div>
       <div className='text-black flex flex-row border-b-blue-700 border-b font-bold text-lg mb-4'>
         <div className='m-1'>
