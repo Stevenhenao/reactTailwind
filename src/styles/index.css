@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav {
+  @apply bg-blue-700 p-10 min-w-max text-center text-white bg-cover w-full
+}
